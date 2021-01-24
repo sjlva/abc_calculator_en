@@ -538,7 +538,7 @@ var app = (function () {
     			input3 = element("input");
     			t11 = space();
     			label3 = element("label");
-    			label3.textContent = ">= 80";
+    			label3.textContent = "≥ 80";
     			t13 = space();
     			div9 = element("div");
     			div8 = element("div");
@@ -556,7 +556,7 @@ var app = (function () {
     			input5 = element("input");
     			t19 = space();
     			label5 = element("label");
-    			label5.textContent = ">= 42";
+    			label5.textContent = "≥ 42";
     			t21 = space();
     			div14 = element("div");
     			div13 = element("div");
@@ -576,7 +576,7 @@ var app = (function () {
     			input7 = element("input");
     			t28 = space();
     			label7 = element("label");
-    			label7.textContent = ">= 2";
+    			label7.textContent = "≥ 2";
     			t30 = space();
     			div19 = element("div");
     			div18 = element("div");
@@ -594,7 +594,7 @@ var app = (function () {
     			input9 = element("input");
     			t36 = space();
     			label9 = element("label");
-    			label9.textContent = ">= 100";
+    			label9.textContent = "≥ 100";
     			t38 = space();
     			div24 = element("div");
     			div23 = element("div");
@@ -607,7 +607,7 @@ var app = (function () {
     			input10 = element("input");
     			t41 = space();
     			label10 = element("label");
-    			label10.textContent = `${"<="} 150`;
+    			label10.textContent = `${" ≤"} 150`;
     			t44 = space();
     			input11 = element("input");
     			t45 = space();
@@ -629,7 +629,7 @@ var app = (function () {
     			div27 = element("div");
     			div26 = element("div");
     			h55 = element("h5");
-    			h55.textContent = "Platelet count (x10^9/L)";
+    			h55.textContent = "Platelet count (x10⁹/L)";
     			t55 = space();
     			div25 = element("div");
     			input14 = element("input");
@@ -658,7 +658,7 @@ var app = (function () {
     			input17 = element("input");
     			t67 = space();
     			label17 = element("label");
-    			label17.textContent = `${"<= 90"}`;
+    			label17.textContent = `${"≤ 90"}`;
     			t69 = space();
     			input18 = element("input");
     			t70 = space();
@@ -668,7 +668,7 @@ var app = (function () {
     			input19 = element("input");
     			t73 = space();
     			label19 = element("label");
-    			label19.textContent = `${">= 131"}`;
+    			label19.textContent = `${"≥ 131"}`;
     			t75 = space();
     			div44 = element("div");
     			div37 = element("div");
